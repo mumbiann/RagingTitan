@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/BP/E534CCI1MJB0NINGBB8346.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LI/D4J93CJRODOSDQEX5A9ELX.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FQ/3ETF0PIVOTYFI6LDA5UUDW.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/Target/SM_Target_SM_Target/BP_Target2_GeometryCollection.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/5A/8TFOY9OHDDKRC2V8RKW0B3.uasset",
+				"D:/Users/mumbi/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets/RagingTitan/Content/Target/BP_Target2_GeometryCollection_GeometryCollection.uasset"
+			]
+		}
+	]
+}
